@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# Primary color for interactive elements (UCSC Blue)
+primaryColor="#00458C" 
+
+# Background color of the main application area (Ocean Blue)
+backgroundColor="#0077B6" 
+
+# Background color of sidebar and secondary containers (a lighter blue for contrast)
+secondaryBackgroundColor="#0096C7" 
+
+# Font color for all text (White for high contrast against dark blue)
+textColor="#FFFFFF" 
+
+# Font style
+font="sans serif"
